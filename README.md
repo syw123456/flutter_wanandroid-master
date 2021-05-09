@@ -420,32 +420,3 @@ ScreenUtil.getScaleSp(context, size) ;//返回根据屏幕宽适配后字体尺�
 ### 项目问题汇总
 Q1：Flutter国际化系统切换iOS不生效问题？  
 A1：在Xcode项目Localizations下添加支持语言即可，[原文](https://stanzhai.site/blog/post/stanzhai/Flutter国际化设置在iOS设备上不生效的问题)。
-
-### 关于作者
-GitHub : [Sky24n](https://github.com/Sky24n)  
-简书 &nbsp;&nbsp;&nbsp;&nbsp;: [Sky24n](https://www.jianshu.com/u/cbf2ad25d33a)  
-掘金 &nbsp;&nbsp;&nbsp;&nbsp;: [Sky24n](https://juejin.im/user/5b9e8a92e51d453df0440422/posts)  
-Pub &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: [Sky24n](https://pub.flutter-io.cn/packages?q=email%3A863764940%40qq.com)    
-Email &nbsp;&nbsp;: 863764940@qq.com  
-如果您觉得本项目不错的话，来个star支持下作者吧!  
-关于项目任何问题请提交[issues](https://github.com/Sky24n/flutter_wanandroid/issues)，私发QQ邮件将不再回复～
-
-
-[flutter_wanandroid_github]: https://github.com/Sky24n/flutter_wanandroid
-[flutter_wanandroid_apk]: https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppStore/flutter_wanandroid.apk
-[flutter_wanandroid_qr]: https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_wanandroid/qrcode.png
-
-[flutter_demos_github]: https://github.com/Sky24n/flutter_demos
-[flutter_demos_apk]: https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppStore/flutter_demos.apk
-[flutter_demos_qr]: https://raw.githubusercontent.com/Sky24n/LDocuments/master/AppImgs/flutter_demos/qrcode.png
-
-[common_utils_github]: https://github.com/Sky24n/common_utils
-
-[flustars_github]: https://github.com/Sky24n/flustars
-
-[jianshuSvg]: https://img.shields.io/badge/简书-@Sky24n-536dfe.svg
-[jianshu]: https://www.jianshu.com/u/cbf2ad25d33a
-
-[juejinSvg]: https://img.shields.io/badge/掘金-@Sky24n-536dfe.svg
-[juejin]: https://juejin.im/user/5b9e8a92e51d453df0440422
-
